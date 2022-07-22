@@ -1,9 +1,9 @@
 ---
-## Inspiration:
+## Inspiration
 
 A wrote a similar tool which was a request from the 2D Builds department at Atomic Cartoons. The tool allows for characters/props to copy & paste pivot/positional values interchangeably from one source peg to another (or multiple). The request came for <i>Pinecone & Pony</i>, which coincidentally was produced by DreamWorks (in collaboration with Atomic)!
 
-## My Version:
+## My Version
 
 Allows riggers to copy & paste rotational or skew values to another character/prop node, or multiple at once. The UI is dynamic- no need to have any layer pre-selected.
 
@@ -27,4 +27,5 @@ This includes shows across Vancouver and LA. It is a widely used custom tool I d
 
 
 <b>CREATED BY</b>
+
 Florian Ntibarigobeka
