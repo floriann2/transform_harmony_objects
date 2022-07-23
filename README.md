@@ -9,7 +9,7 @@ Allows riggers to copy & paste rotational or skew values to another character/pr
 
 ## Benefits
 
-Build artists won't have to manaully update/edit these properties through the nodes' layer attributes.
+Build artists won't have to manually update/edit these properties through the nodes' layer attributes.
 
 ## Software/Languages
 
@@ -22,7 +22,7 @@ Qt Designer
 ## Feedback
 
 The copy/paste pivots & positions script started out for Pinecone & Pony (Atomic-Ottawa), but is now being used across all active shows in the pipeline.
-This includes shows across Vancouver and LA. It is a widely used custom tool I developed for artists using Harmony at the studio.
+This includes shows across Vancouver and LA. It is a widely used custom tool I developed, for artists using Harmony at the studio.
 
 
 
